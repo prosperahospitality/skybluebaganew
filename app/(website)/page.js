@@ -11,7 +11,7 @@ import { handleLocateUsFxn, handleTouristSpotsFxn, handlePartnersClickFxn, handl
 import Process from '@/_components/Home/Process'
 //home
 const Home = () => {
-
+//new
   const dispatch = useDispatch();
 
   const scrollLocation = useSelector((state) => state.nav.scrollLocation);
