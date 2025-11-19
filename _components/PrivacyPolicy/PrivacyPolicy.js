@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
       <p className="text-lg mb-4"><strong>Effective Date:</strong> 01-12-2004</p>
 
       <p className="mb-4">
-        Welcome to <strong>Hotel Sky Blue Baga</strong>, located in Goa, Gujarat. We value your privacy and are committed to
+        Welcome to <strong>Hotel Sky Blue Baga</strong>, located in Goa. We value your privacy and are committed to
         protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you interact with our website, services, and stay at our hotel.
       </p>
 
@@ -96,7 +96,7 @@ const PrivacyPolicy = () => {
       </p>
       <p><strong>Hotel Sky Blue Baga</strong></p>
       <p>no.7/62b, bus stop, H, opposite sun city, Saunta Vaddo, Baga, Goa, 403516</p>
-      <p>Goa, Gujarat</p>
+      <p>Goa</p>
       <p>Email: hotelrajdhani22@gmail.com</p>
       <p>Phone: 9898309244</p>
     </div>

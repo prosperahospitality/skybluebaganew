@@ -8,7 +8,7 @@ const TermsAndConditions = () => {
       <p className="text-lg mb-4"><strong>Effective Date:</strong> 01-12-2004</p>
 
       <p className="mb-4">
-        Welcome to <strong>Hotel Sky Blue Baga</strong>, located in Goa, Gujarat. By making a booking request, using our services, or visiting our website, you agree to abide by the following terms and conditions. Please read them carefully.
+        Welcome to <strong>Hotel Sky Blue Baga</strong>, located in Goa. By making a booking request, using our services, or visiting our website, you agree to abide by the following terms and conditions. Please read them carefully.
       </p>
 
       <h2 className="text-2xl font-semibold mt-6 mb-4">1. Booking Request</h2>

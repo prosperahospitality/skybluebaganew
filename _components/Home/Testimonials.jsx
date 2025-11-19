@@ -25,7 +25,7 @@ export default function Testimonials({ }) {
         },
         {
             name: 'Manish D.',
-            title: 'Gujarat',
+            title: 'Goa',
             rating: 5,
             image: IMAGES.profile,
             text: 'Our stay at Hotel Sky Blue Baga was amazing! The hotel is very family-friendly, with spacious rooms and a relaxed atmosphere. The kids enjoyed the pool, and the staff were always so accommodating. We especially loved the traditional Indian breakfast. A great place for a family retreat!',
