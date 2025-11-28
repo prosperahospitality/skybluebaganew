@@ -681,7 +681,7 @@ const Facilities = ({ roomservices }) => {
                     <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 w-full mt-4">
                         {roomservices?.map((item, index) => (
                             <Card
-                                className="w-full h-full p-3 md:p-4 bg-[#F5F5DC]"
+                                className="w-full h-full p-3 md:p-4 bg-[#38B6FF]"
                                 key={index.toString()}
                             >
                                 <div className="flex flex-col items-center justify-center gap-1 md:gap-2 text-center text-[#333333]">
@@ -1749,9 +1749,9 @@ const RoomsTemplate = (props) => {
                             <Facilities roomservices={roomDetails?.roomservices} />
                         </div>
 
-                        <div className="w-full pt-16">
+                        {/* <div className="w-full pt-16">
                             <SimilarRooms similarrooms={roomDetails?.similarrooms} />
-                        </div>
+                        </div> */}
 
                         <div className="w-full pt-16 md:mb-16 lg:mb-0">
                             <BookingProcess />
